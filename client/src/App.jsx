@@ -8,7 +8,7 @@ import {
 } from "lucide-react";
 import "./index.css";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://monday-bi-agent-co7t.onrender.com";
 
 function App() {
   const [question, setQuestion] = useState("");
