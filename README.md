@@ -51,7 +51,7 @@ Monday.com Data
   ↓
 Formatted Business Response
 
-## Technology Stack
+** Technology Stack**
 
 1.Frontend
 
